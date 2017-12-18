@@ -1,5 +1,7 @@
 # README
 
+これは、Rails Tutorialの学習用に作成したアプリケーションです。
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
